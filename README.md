@@ -16,13 +16,14 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<h3 align="left">My Skills</h3>
 
 
-<p align="center">
+
+<p align="left">
+  <h2> Programming Languages : </h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs" />
   </a>
 </p>
 
