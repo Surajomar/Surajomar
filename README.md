@@ -15,16 +15,16 @@
   - 📫 connect me via  **https://www.linkedin.com/in/suraj-omar-532904212/**
 
 
-<p align="left">
-  - Ⓜ️ mail id **surajomar56@gmail.com**
-  - 📫 connect me via  **https://www.linkedin.com/in/suraj-omar-532904212/**
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 
