@@ -10,11 +10,11 @@
 
 ###
 
-- 📫 How to reach me **surajomar56@gmail.com**
+- <h3 align="left">🔗 How to reach me</h3>
   - Ⓜ️ mail id **surajomar56@gmail.com**
   - 📫 connect me via  **https://www.linkedin.com/in/suraj-omar-532904212/**
 
-<h3 align="left">🔗 How to reach me</h3>
+
 <p align="left">
   - Ⓜ️ mail id **surajomar56@gmail.com**
   - 📫 connect me via  **https://www.linkedin.com/in/suraj-omar-532904212/**
