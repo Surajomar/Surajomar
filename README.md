@@ -23,7 +23,28 @@
 <p align="left">
   <h2> Programming Languages : </h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,html,css" />
+  </a>
+</p>
+
+<p align="left">
+  <h2> Framework : </h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,react,flask,tailwind" />
+  </a>
+</p>
+
+<p align="left">
+  <h2> Database : </h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+<p align="left">
+  <h2> Developer Tools : </h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
@@ -68,7 +89,10 @@
 ###
 
 <br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/suraj5621/count.svg?"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+###
 
 ###
